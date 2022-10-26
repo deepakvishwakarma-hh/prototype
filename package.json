@@ -1,0 +1,17 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "commandline application prototype",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo `Error: no test specified` && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "tran": "./bin/index.js"
+  },
+  "author": "deepakvishwakarma-h",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+Shebang : The first line starting with #! is called a shebang line or a bang line. A shebang line is used to specify the absolute path to the interpreter that will run the below code. The shebang line used here is for Linux or UNIX type systems but node requires it for Windows and macOS too, for proper installation and execution of the script.
